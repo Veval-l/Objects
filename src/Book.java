@@ -5,7 +5,6 @@ public class Book {
 
     private Author author;
 
-
     public Book(String nameBook, int yearOfIssues, Author author) {
         this.nameBook = nameBook;
         this.yearOfIssues = yearOfIssues;
